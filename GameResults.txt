@@ -1,0 +1,9 @@
+Time: 01:00     Level: 1     Result: lose    Coins: 7
+Time: 01:00     Level: 1     Result: lose    Coins: 3
+Time: 01:00     Level: 1     Result: lose    Coins: 0
+Time: 00:58     Level: 1     Result: won    Coins: 1
+Time: 00:55     Level: 1     Result: won    Coins: 2
+Time: 00:52     Level: 1     Result: won    Coins: 1
+Time: 00:51     Level: 1     Result: won    Coins: 2
+Time: 01:15     Level: 2     Result: won    Coins: 3
+Time: 01:00     Level: 1     Result: lose    Coins: 3
